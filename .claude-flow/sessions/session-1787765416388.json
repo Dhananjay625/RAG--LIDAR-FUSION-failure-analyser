@@ -1,0 +1,14 @@
+{
+  "id": "session-1787765416388",
+  "startedAt": "2026-08-26T17:30:16.388Z",
+  "cwd": "/Volumes/PortableSSD/Dissertation",
+  "context": {},
+  "metrics": {
+    "edits": 0,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "endedAt": "2026-08-26T17:30:17.578Z",
+  "duration": 1195
+}
