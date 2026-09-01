@@ -5,4 +5,6 @@ __pycache__/
 .DS_Store
 chroma_db/
 *.log
-/Volumes/PortableSSD/Dissertation/data/Researchpapers
+data/Researchpapers
+data/papers/
+chroma_db/
